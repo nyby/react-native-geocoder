@@ -1,5 +1,5 @@
 {
-  "name": "react-native-geocoder",
+  "name": "@nyby/react-native-geocoder",
   "version": "0.4.8",
   "description": "react native geocoding and reverse geocoding",
   "main": "index.js",
@@ -14,18 +14,18 @@
     "android"
   ],
   "author": {
-    "name": "devfd",
-    "email": "hello@devfd.me",
-    "url": "https://github.com/devfd"
+    "name": "nyby",
+    "email": "info@nyby.no",
+    "url": "https://github.com/nyby"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/devfd/react-native-geocoder"
+    "url": "https://github.com/nyby/react-native-geocoder"
   },
   "bugs": {
-    "url": "https://github.com/devfd/react-native-geocoder/issues"
+    "url": "https://github.com/nyby/react-native-geocoder/issues"
   },
-  "homepage": "https://github.com/devfd/react-native-geocoder",
+  "homepage": "https://github.com/nyby/react-native-geocoder",
   "license": "MIT",
   "devDependencies": {
     "appium": "^1.5.3",
